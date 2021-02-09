@@ -17,12 +17,11 @@ Model Performance Comparison<br>**
 
 Building a machine learning model has been described using the following simple steps
 
-**1. Data Gathering**
-**2. Data Cleaning/Pre-processing**
-**3. Data Visualization/Analysis**
-**4. Data Split(Train/Test)/Model Training)**
-**5. Model Evaluation/Testing**
-
+**1. Data Gathering<br>**
+**2. Data Cleaning/Pre-processing<br>**
+**3. Data Visualization/Analysis<br>**
+**4. Data Split(Train/Test)/Model Training)<br>**
+**5. Model Evaluation/Testing<br>**
 
 **Dataset**
 
