@@ -2,7 +2,7 @@
 
 **Description** 
 
-This is a tutorial porfolio that provides simple hands-on that uses scikit_Learn to explain how to buld machine learning algorithms. Algorithms covered are listed below:
+This is a tutorial porfolio that provides simple hands-on training that uses scikit_Learn to buld machine learning algorithms. Algorithms covered are listed below:
 
 **1. Data Preprocessing**<br>
 **2. Linear Regression**<br>
