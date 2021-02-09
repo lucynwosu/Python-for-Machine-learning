@@ -4,16 +4,16 @@
 
 This is a tutorial porfolio that provides simple hands-on that uses scikit_Learn to explain how to buld machine learning algorithms. Algorithms covered are listed below:
 
-**Data Preprocessing<br>
-Linear Regression<br>
-Logistic Regression<br>
-Decision Tree<br>
-K-Means Clustering<br>
-Dimension Reduction -Principal Component Analysis(PCA)<br>
-Dimension Reduction - Auto-Encoders
-Feature Selection<br>
-Support Vector Machine(SVM) <br>
-Model Performance Comparison<br>**
+**1. Data Preprocessing<br>
+**2. Linear Regression<br>
+**3. Logistic Regression<br>
+**4. Decision Tree<br>
+**5. K-Means Clustering<br>
+**6. Dimension Reduction -Principal Component Analysis(PCA)<br>
+**7. Dimension Reduction - Auto-Encoders
+**8. Feature Selection<br>
+**9. Support Vector Machine(SVM) <br>
+**10. Model Performance Comparison<br>
 
 Building a machine learning model has been described using the following simple steps
 
